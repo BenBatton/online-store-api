@@ -1,12 +1,12 @@
 {
-  "amount": 1000,
-  "countGoods": 1,
+  "amount": ,
+  "countGoods": ,
   "contents": [
     {
-      "id_product": 456,
-      "product_name": "Мышка",
-      "price": 1000,
-      "quantity": 1
+      "id_product": ,
+      "product_name": "",
+      "price": ,
+      "quantity": 
     }
   ]
 }
