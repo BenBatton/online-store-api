@@ -1,8 +1,13 @@
 {
- "amount": 0,
-  "countGoods": 0,
+ "amount": ,
+  "countGoods": ,
   "contents": [
-    
+    {
+      "id_product": ,
+      "product_name": "",
+      "price": ,
+      "quantity": 
+    },
     
   ]
 }
