@@ -2,26 +2,31 @@
   {
     "title": "Processor", 
     "completed": false,
-    "id": 0
+    "id": 0,
+    "price": 500
   },
   {
     "title": "Display", 
     "completed": false,
-    "id": 1
+    "id": 1,
+    "price": 500
   },
   {
     "title": "Notebook", 
     "completed": false,
-    "id": 2
+    "id": 2,
+    "price": 500
   },
   {
     "title": "Mouse", 
     "completed": false,
-    "id": 3
+    "id": 3,
+    "price": 500
   },
   {
     "title": "Keyboard",
     "completed": false,
-    "id": 4
+    "id": 4,
+    "price": 500
   }
 ]
