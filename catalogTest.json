@@ -32,5 +32,26 @@
     "completed": false,
     "id": 4,
     "price": 500
+  },
+  {
+   
+    "title": "Notebook", 
+    "completed": false,
+    "id": 2,
+    "price": 500
+  },
+  {
+    
+    "title": "Mouse", 
+    "completed": false,
+    "id": 3,
+    "price": 500
+  },
+  {
+    
+    "title": "Keyboard",
+    "completed": false,
+    "id": 4,
+    "price": 500
   }
 ]
