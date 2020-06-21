@@ -3,14 +3,14 @@
     "title": "Processor", 
     "completed": false,
     "id": 0,
-    "image": "https://via.placeholder.com/200x250"
+    "price": 500
   },
   {
     
     "title": "Display", 
     "completed": false,
     "id": 1,
-    "image": "https://via.placeholder.com/200x250"
+    "price": 500
   },
   {
    
