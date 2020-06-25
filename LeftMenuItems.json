@@ -1,0 +1,22 @@
+[
+  {
+    title: "Projects",
+    open: true,
+    sublist: ["Vue", "SCSS", "JS", "TypeScript"]
+  },
+  {
+    title: "Technologes",
+    open: false,
+    sublist: ["Vue CLI", "SASS", "Java"]
+  },
+  {
+    title: "Search",
+    open: false,
+    sublist: ["Babel", "Post", "Get"]
+  },
+  {
+    title: "Settings",
+    open: false,
+    sublist: ["Account", "Cart", "Exit"]
+  }
+]
